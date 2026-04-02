@@ -11,7 +11,6 @@ public class BelajarDasar : MonoBehaviour
     // Dipanggil terus-menerus setiap frame (sangat cepat)
     void Update()
     {
-        // Hati-hati: Jangan taruh logika berat di sini
-        // Debug.Log("Saya dipanggil setiap saat"); 
+        // Jangan taruh logika berat di sini untuk performa
     }
 }
