@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Faiz game project.slnx",
+    "dotnet.defaultSolution": "Faiz_Latihan Program Game 2D.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
